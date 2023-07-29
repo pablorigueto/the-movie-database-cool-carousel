@@ -148,7 +148,7 @@ export default function App() {
                   marginHorizontal: SPACING,
                   padding: SPACING * 2,
                   alignItems: 'center',
-                  //transform: [{ translateY }],
+                  transform: [{ translateY }],
                   //transform: 'scaleX(2) rotateX(15deg)',
                   backgroundColor: 'white',
                   borderRadius: 34,
